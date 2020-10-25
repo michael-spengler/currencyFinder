@@ -1,0 +1,10 @@
+{
+                                "name": "currency_finder",
+                                "description": "find currency information in deno",
+                                "homepage": "https://github.com/yeukfei02/currencyFinder",
+                                "files": [
+                                  "./**/*.ts",
+                                  "README.md"
+                                ],
+                                "entry": "./mod.ts"
+                              }
